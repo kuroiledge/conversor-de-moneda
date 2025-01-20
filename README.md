@@ -1,4 +1,4 @@
-# <em> Conversor de Moneda </em>
+# <em> Conversor de Moneda :moneybag: </em>
 Flujo de Trabajo
 1. El usuario selecciona una opción del menú (por ejemplo, convertir de USD a ARS).
 2. El programa solicita la cantidad de la moneda base que se desea convertir.
